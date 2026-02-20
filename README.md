@@ -33,4 +33,4 @@ This repository is a small static plant store built with HTML, CSS and vanilla J
 - Integrate Cloudinary or S3 for image hosting
 - Add form validation and unit/UI tests
 
-If you want, I can: add deployment instructions (GitHub Pages), implement a Node backend, or wire Cloudinary uploads — tell me which next. 🌿
+If you want, I can: add deployment instructions (GitHub Pages), implement a Node backend, or wire Cloudinary uploads — tell me which next. 

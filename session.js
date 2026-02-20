@@ -1,4 +1,4 @@
-/* ================= SESSION PROTECTION ================= */
+/* ================= SESSION PROTECTION =============== */
 
 if(localStorage.getItem("adminLoggedIn") !== "true"){
   window.location.href = "/admin/admin_login.html";

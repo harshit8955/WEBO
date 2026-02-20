@@ -8,7 +8,7 @@ const ADMINS = [
   },
   {
     username: "harshit",
-    password: btoa("pushpak@2024")
+    password: btoa("Harshit#8955")
   }
 ];
 

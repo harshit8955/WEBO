@@ -5,7 +5,7 @@
    - cart (by plant id + qty)
    - favorites (by plant id)
    - theme & i18n
-   ================================================== */
+   ============================================= */
 
 // -------------------- Initialization --------------------
 document.addEventListener('DOMContentLoaded', () => {

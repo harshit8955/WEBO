@@ -20,7 +20,7 @@ function updateThemeIcon() {
   }
 }
 
-/* ================= LOAD SAVED THEME ================= */
+/* ================= LOAD SAVED THEME =============== */
 
 document.addEventListener("DOMContentLoaded", function () {
 

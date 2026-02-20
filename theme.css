@@ -17,7 +17,7 @@
   --border-dark: #444;
 }
 
-/* ================= DEFAULT LIGHT ================= */
+/* ================= DEFAULT LIGHT =============== */
 
 body {
   background: var(--bg-light);

@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-// ===== TOGGLE THEME =====
+// ===== TOGGLE THEME ====
 function toggleTheme() {
     document.body.classList.toggle("dark");
 
